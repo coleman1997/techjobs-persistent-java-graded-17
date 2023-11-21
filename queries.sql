@@ -1,5 +1,5 @@
 --Part 1
---id = INT, employer = VARCHAR, name = VARCHAR, skills = VARCHAR
+id = INT, employer = VARCHAR, name = VARCHAR, skills = VARCHAR
 
 
 --Part 2
